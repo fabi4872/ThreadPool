@@ -1,0 +1,15 @@
+E:\ThreadPool\ThreadPool\bin\Debug\net6.0\ThreadPool.exe
+E:\ThreadPool\ThreadPool\bin\Debug\net6.0\ThreadPool.deps.json
+E:\ThreadPool\ThreadPool\bin\Debug\net6.0\ThreadPool.runtimeconfig.json
+E:\ThreadPool\ThreadPool\bin\Debug\net6.0\ThreadPool.dll
+E:\ThreadPool\ThreadPool\bin\Debug\net6.0\ThreadPool.pdb
+E:\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.csproj.AssemblyReference.cache
+E:\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+E:\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.AssemblyInfoInputs.cache
+E:\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.AssemblyInfo.cs
+E:\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.csproj.CoreCompileInputs.cache
+E:\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.dll
+E:\ThreadPool\ThreadPool\obj\Debug\net6.0\refint\ThreadPool.dll
+E:\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.pdb
+E:\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.genruntimeconfig.cache
+E:\ThreadPool\ThreadPool\obj\Debug\net6.0\ref\ThreadPool.dll
